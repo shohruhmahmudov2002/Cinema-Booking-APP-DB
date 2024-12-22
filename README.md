@@ -1,1 +1,1 @@
-![Alt text](./images/DB.png)
+![Alt text](./image/DB.png)
